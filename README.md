@@ -1,7 +1,7 @@
 # DE-Arm
 Resources for the DE-Arm, the Wekinator and Arduino controlled laser-cut robot arm based off the MeArm project. Created for the IDE and GID programmes in the Dyson School of Design Engineering at Imperial College London.
 
-![Photo of fully built robot arm from laser cut plywood)(/wiki-images/side-profile-smaller.jpg)
+![Photo of fully built robot arm from laser cut plywood](wiki-images/side-profile-smaller.jpg)
 
 ## Summary
 The DE-Arm is an open source project that consists of a robot arm with 4 degrees-of-motion each controlled by a single servo motor. The arm itself is cut from 4mm laser cut plywood and is assembled with M3 screws of varying lengths.
