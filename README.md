@@ -8,7 +8,9 @@ The DE-Arm is an open source project that consists of a robot arm with 4 degrees
 
 The four servo motors are controlled by a circuit board which handles all power and communication. It is controlled by an Arduino over I2C communication.
 
-The Arduino board can be controlled by receiving OSC messages sent from Wekinator, an interactive machine learning software tool, though this is not required.
+The Arduino board can be controlled by receiving OSC messages sent from Wekinator, an interactive machine learning software tool, via Processing though this is not required. The Arduino could be used on its own.
+
+![Illustration of system overview from the laptop running Wekinator through to the servo motors.](wiki-images/system-overview.png)
 
 # Directory of Resources
 The following files can be found in this repository.
@@ -16,11 +18,17 @@ The following files can be found in this repository.
 
 | Folder | Filename | Description |
 | ----------- | - |----------- |
-| physical-build-resources | DE-Arm-BOM.xslx | Spreadsheet lising all materials needed to build one robot arm
+| physical-build-resources | DE-Arm-BOM.xslx | Spreadsheet listing all materials needed to build one robot arm
 |  | DE-Arm2022.ai | Adobe Illustrator file for laser cutting the arm
 |  | DE-Arm2022.dxf | DXF export of Illustrator file for laser cutter
 
 # Building the Arm
+## Electronics
+
+## Arm Construction
+Tools required
+
+* Screwdriver (matched to whatever kind of M3 screws are being used, e.g. Phillips or hex)
 
 
 
