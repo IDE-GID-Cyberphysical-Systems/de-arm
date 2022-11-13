@@ -18,17 +18,12 @@ The following files can be found in this repository.
 
 | Folder | Filename | Description |
 | ----------- | - |----------- |
-| physical-build-resources | DE-Arm-BOM.xslx | Spreadsheet listing all materials needed to build one robot arm
+| physical-build-resources | DE-Arm-Assembly.pdf | PDF with illustrated build instructions; directly modified from the MeArm build instructions |
+| | DE-Arm-BOM.xslx | Spreadsheet listing all materials needed to build one robot arm
 |  | DE-Arm2022.ai | Adobe Illustrator file for laser cutting the arm
 |  | DE-Arm2022.dxf | DXF export of Illustrator file for laser cutter
 
-# Building the Arm
-## Electronics
 
-## Arm Construction
-Tools required
-
-* Screwdriver (matched to whatever kind of M3 screws are being used, e.g. Phillips or hex)
 
 
 
