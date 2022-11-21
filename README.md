@@ -18,6 +18,8 @@ The following files can be found in this repository.
 
 | Folder | Filename | Description |
 | ----------- | - |----------- |
+| osc-routing |  arduino-osc-blink | Arduino sketch which changes LED blinking pattern based on incoming message; to be run with the processing-osc-to-arduino Processing sketch |
+|  | processing-osc-to-arduino | Processing sketch which listens for OSC messages from Wekinator and converts them to serial messages for Arduino; to be run with the arduino-osc-blink Arduino sketch
 | physical-build-resources | DE-Arm-Assembly.pdf | PDF with illustrated build instructions; directly modified from the MeArm build instructions |
 | | DE-Arm-BOM.xslx | Spreadsheet listing all materials needed to build one robot arm
 |  | DE-Arm2022.ai | Adobe Illustrator file for laser cutting the arm
