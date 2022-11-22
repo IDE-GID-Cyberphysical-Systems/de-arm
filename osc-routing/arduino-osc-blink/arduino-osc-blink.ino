@@ -11,7 +11,7 @@
 */
 
 
-// variable used to save colour for Neopixel
+// variable used for LED blink pattern
 int blinkCode = -1;
 
 void setup() {
