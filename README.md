@@ -24,6 +24,7 @@ The following files can be found in this repository.
 | | DE-Arm-BOM.xslx | Spreadsheet listing all materials needed to build one robot arm
 |  | DE-Arm2022.ai | Adobe Illustrator file for laser cutting the arm
 |  | DE-Arm2022.dxf | DXF export of Illustrator file for laser cutter
+| wekinator-input | video_input_100_pixels | Simple Processing sketch which will sample 100 pixels across the camera input and send only those on in OSC messages.
 
 
 
@@ -35,3 +36,5 @@ The following files can be found in this repository.
 The DE-Arm is based off of the open source MeArm V3 from [MeArm Robotics Lab](https://mearm.com/).
 
 The original build instructions for the MeArm can be found on the [company website](http://learn.mearm.com/docs/building-the-mearm-v3/) and [Instructables](https://www.instructables.com/MeArm-Build-a-Small-Hackable-Robot-Arm/). The original laser cutting file that was modified to create the DE-Arm is available on [Thingiverse](https://www.thingiverse.com/thing:3420797).
+
+This module has been taught twice at the Dyson School of Design Engineering at Imperial College London.
