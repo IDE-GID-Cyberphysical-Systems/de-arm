@@ -34,7 +34,7 @@ The following files can be found in this repository.
 
 # Development History
 
-The DE-Arm is based off of the open source MeArm V3 from [MeArm Robotics Lab](https://mearm.com/).
+The DE-Arm is remastered by Tong Zhang and Dr Rebecca Stewart, from the open source MeArm V3 from [MeArm Robotics Lab](https://mearm.com/).
 
 The original build instructions for the MeArm can be found on the [company website](http://learn.mearm.com/docs/building-the-mearm-v3/) and [Instructables](https://www.instructables.com/MeArm-Build-a-Small-Hackable-Robot-Arm/). The original laser cutting file that was modified to create the DE-Arm is available on [Thingiverse](https://www.thingiverse.com/thing:3420797).
 
