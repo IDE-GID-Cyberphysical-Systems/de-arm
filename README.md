@@ -4,7 +4,7 @@ Resources for the DE-Arm, the Wekinator and Arduino controlled laser-cut robot a
 ![Photo of fully built robot arm from laser cut plywood](wiki-images/side-profile-smaller.jpg)
 
 ## Summary
-The DE-Arm is an open source project that consists of a robot arm with 4 degrees-of-motion each controlled by a single servo motor. The arm itself is cut from 4mm laser cut plywood with some 2.5mm MDF spacers, and is assembled with M3 screws of varying lengths.
+The DE-Arm is an open source project that consists of a robot arm with 4 degrees-of-motion each controlled by a single servo motor. The arm itself is cut from 4mm laser cut plywood with some 2mm MDF spacers, and is assembled with M3 screws of varying lengths.
 
 The four servo motors are controlled by an Arduino board.
 
@@ -22,7 +22,7 @@ The following files can be found in this repository.
 |  | processing-osc-to-arduino | Processing sketch which listens for OSC messages from Wekinator and converts them to serial messages for Arduino; to be run with the arduino-osc-blink Arduino sketch
 | physical-build-resources | DE-Arm-Assembly.pdf | PDF with illustrated build instructions; remastered from the MeArm build instructions |
 | | DE-Arm-BoM.xslx | Spreadsheet listing all materials needed to build the DE Arm
-|  | DE-Arm-2.5mm.dxf | DXF file for laser cutter, intended for 2.5mm MDF
+|  | DE-Arm-2mm.dxf | DXF file for laser cutter, intended for 2mm MDF
 |  | DE-Arm-4mm.dxf | DXF file for laser cutter, intended for 4mm plywood
 |  | DE-Arm-CAD.step | 3D CAD file reverse-engineered from the MeArm DXF files, remastered for 4mm plywood
 | wekinator-input | video_input_100_pixels | Simple Processing sketch which will sample 100 pixels across the camera input and send only those on in OSC messages.
